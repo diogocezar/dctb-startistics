@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mandrill/mandrill": "1.0.*",
+        "facebook/php-sdk": "dev-master",
+        "abraham/twitteroauth": "dev-master",
+        "davefx/phplot": "dev-master"
+    }
+}
