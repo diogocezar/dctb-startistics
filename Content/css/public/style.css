@@ -1,0 +1,41 @@
+body{
+	background-color:#000;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+section{
+	color:#FFF;
+}
+
+/* Analytics */
+
+.data-index{
+	font-size: 20pt;
+}
+
+/* Form Graphs */
+
+#form-graphs{
+	margin-top: 60px;
+}
+
+/* Bootstrap */
+
+.navbar-default{
+	background-color: #FFF;
+	border-color: #FFF;
+}
+
+.navbar-logo{
+	margin-top:7px;
+	margin-left: 5px;
+}
+
+.navbar-default .navbar-brand{
+	color:#000;
+}
